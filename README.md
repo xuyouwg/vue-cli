@@ -14,7 +14,11 @@
 
 **2 初始化项目，生成项目模板**
 vue init webpack vue-cli-demo
+
 cd vue-cli-demo
+
 cnpm install
-npm run dev
-npm run build  //打包输出，上线
+
+**npm run dev**
+
+**npm run build**  //打包输出，上线
