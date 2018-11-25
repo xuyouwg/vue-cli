@@ -1,4 +1,4 @@
-# vue-cli-vuex
+# vue-cli
  VUE-cli脚手架 创建项目
  Vue-cli是快速构建这个单页应用的脚手架
  Vue-cli本身集成了多种项目模板： 
