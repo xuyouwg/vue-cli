@@ -2,8 +2,10 @@
 VUE-cli脚手架 创建项目
 Vue-cli是快速构建这个单页应用的脚手架
 Vue-cli本身集成了多种项目模板： 
-  Webpack  基于webpack，用的较多，包含eslint, unit等
-  Webpack-simple  基于webpack， 更简洁，无eslint, unit
+  Webpack  
+  基于webpack，用的较多，包含eslint, unit等
+  Webpack-simple  
+  基于webpack， 更简洁，无eslint, unit
 
 示例，步骤：
 1 安装vue-cli， 配置vue命令环境
