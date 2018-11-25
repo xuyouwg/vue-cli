@@ -9,10 +9,13 @@
 
 ## 示例，步骤：
 **1 安装vue-cli， 配置vue命令环境**
+
   cnpm install vue-cli -g
+  
   查看脚手架 vue –V
 
 **2 初始化项目，生成项目模板**
+
 vue init webpack vue-cli-demo
 
 cd vue-cli-demo
